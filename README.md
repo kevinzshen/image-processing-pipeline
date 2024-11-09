@@ -4,7 +4,7 @@
 
 This project consists of a suite of image filter programs and a web server developed in C. The image filters can be applied to bitmap images through a command-line interface or a web browser. The filters include copy, greyscale, Gaussian blur, edge detection, and scaling.
 
-## Features
+## Original Features
 
 ### Image Filter Programs
 - **Filter Development & Process Management:** Engineered image filters in C, including copy, greyscale, Gaussian blur, edge detection, and scaling. Built a "master" program to manage the execution of multiple filter processes, enabling users to apply a series of filters to manipulate bitmap images in a single pipeline.
